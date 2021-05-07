@@ -67,6 +67,7 @@ _Para los clientes que necesiten, por la criticidad de la información que manej
 _Combinan características de las dos anteriores, de manera que parte del servicio se puede ofrecer de manera privada (por ejemplo la infraestructura) y otra parte de manera compartida (por ejemplo las herramientas de desarrollo)._
 
 ## Ventajas y desventajas de usar la nube
+![pexels-christina-morillo-1181354](https://github.com/69-angel/Reto-master/blob/main/a.jpg)
 
 Cloud Computing tiene varias ventajas a continuación
 citaremos algunas:
@@ -92,3 +93,11 @@ plataformas de terceros para operar.
 robo o hackeo.
 4. Sin Internet no tendremos acceso a nuestra
 información.
+
+#### Video relacionado a la inteligencia artificial
+
+'**[¿Qué es la inteligencia artificial?](https://www.youtube.com/watch?v=NSf3o-wxtQ0)**'
+
+### Participante ✒️
+* **Angel Alejandro Sanchez Cauich** - [Angel Sanchez](https://github.com/69-angel) 
+
